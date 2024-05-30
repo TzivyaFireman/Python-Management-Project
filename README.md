@@ -52,5 +52,3 @@ Comprehensive documentation is provided for all system functionalities.
 If you encounter any issues or wish to contribute to the development of the project, please open an issue in our repository.
 
 Thank you for using our Expense and Income Management System! We hope it helps you better manage your finances effectively. Feel free to reach out for any assistance or feedback.
-
-**Happy budgeting!** 📊💰
